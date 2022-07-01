@@ -53,7 +53,7 @@ div.movie-poster-right-1::after {
     height: 440px;
     position: absolute;
     top: 7%;
-    left: 18%;
+    left: 15%;
     background-image: url("https://umidigital.co.uk/wp-content/uploads/2022/06/bg-wave.svg");
     z-index: -1;
 }
@@ -99,7 +99,7 @@ a:hover {
 div.movie-info-left::after {
     content: "";
     display: inline;
-    width: 400px;
+    width: 335px;
     height: 350px;
     position: absolute;
     top: 56%;
@@ -113,7 +113,7 @@ div.movie-info-left::after {
 div.movie-info-right::after {
     content: "";
     display: inline;
-    width: 400px;
+    width: 335px;
     height: 350px;
     position: absolute;
     top: 56%;
@@ -279,14 +279,14 @@ div.movie-info-right::after {
         width: 380px;
         height: 590px;
         top: 8%;
-        left: 9%;
+        left: 11%;
     }
 
     div.movie-poster-left-1::after {
         width: 395px;
         height: 590px;
         top: 8%;
-        left: 10%;
+        left: 11.5%;
     }
 
     .movie-info-right, .movie-info-left {
